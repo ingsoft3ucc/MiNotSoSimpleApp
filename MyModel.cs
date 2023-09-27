@@ -9,7 +9,4 @@ public class Post
     public string Body { get; set; }
 }
 
-// public class Root
-// {
-//     public List<Post> Posts { get; set; }
-// }
+
